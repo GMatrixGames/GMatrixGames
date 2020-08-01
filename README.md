@@ -12,7 +12,12 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
   * **Description »** Fortnite based Unreal Engine asset explorer
 * **More soon!**
 
-## My social links!
+## My GitHub stats
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=GMatrixGames&show_icons=true&theme=dark" alt="Github Stats"/>
+</p>
+
+## My social links
 <p align="center">
     <a href="https://twitter.com/GMatrixGames">
         <img src="https://i.imgur.com/MtCU3IB.png" width="350px;" alt="Twitter"/>
