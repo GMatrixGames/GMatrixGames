@@ -15,10 +15,10 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
 ## My social links!
 <p align="center">
     <a href="https://twitter.com/GMatrixGames">
-        <img src="https://www.interstellarrift.com/wiki/images/c/c7/Twitter-logo-transparent.png" width="100px;" alt="Twitter"/>
+        <img src="https://i.imgur.com/MtCU3IB.png" width="350px;" alt="Twitter"/>
     </a>
     <a href="https://www.youtube.com/channel/UCOT7ZUDNs45nf9LJZOicxwA">
-        <img src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" width="100px;" alt="Youtube"/>
+        <img src="https://i.imgur.com/VqblSQt.png" width="300px;" alt="Youtube"/>
     </a>
 </p>
 
