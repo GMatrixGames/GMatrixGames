@@ -13,8 +13,6 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
 * **More soon!**
 
 ## My social links!
-**[🐦 @GMatrixGames](https://twitter.com/GMatrixGames)**
-
-**[▶️ GMatrixGames](https://www.youtube.com/channel/UCOT7ZUDNs45nf9LJZOicxwA)**
-
+[![Twitter](https://www.interstellarrift.com/wiki/images/c/c7/Twitter-logo-transparent.png)](https://twitter.com/GMatrixGames)
+[![Youtube](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/YouTube_Logo.svg/512px-YouTube_Logo.svg.png)](https://www.youtube.com/channel/UCOT7ZUDNs45nf9LJZOicxwA)
 [![Fortnite Central Discord](https://discordapp.com/api/guilds/708370560501153913/widget.png?style=banner4)](http://discord.gg/qnhhgz7)
