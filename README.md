@@ -12,6 +12,14 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
   * **Description »** Fortnite based Unreal Engine asset explorer
 * **More soon!**
 
+### If you like any of my projects and would like to support me, click the image below!
+
+<p align="center">
+	<a href="https://www.paypal.me/gmatrix" target="_blank">
+	    <img src="https://mang0e.gmatrixgames.com/img/matrix-donate.png" height="100">
+	</a>
+</p>
+
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=GMatrixGames&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
@@ -30,12 +38,4 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
     <a href="http://discord.gg/qnhhgz7">
         <img src="https://discordapp.com/api/guilds/708370560501153913/widget.png?style=banner4" width="250px;" alt="Fortnite Central Discord"/>
     </a><br/>
-</p>
-
-### If you like any of my projects and would like to support me, click the image below!
-
-<p align="center">
-	<a href="https://www.paypal.me/gmatrix" target="_blank">
-	    <img src="https://mang0e.gmatrixgames.com/img/matrix-donate.png" height="100">
-	</a>
 </p>
