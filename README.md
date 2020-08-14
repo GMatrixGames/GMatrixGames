@@ -32,8 +32,10 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
     </a><br/>
 </p>
 
-<center>
+### If you like any of my projects and would like to support me, click the image below!
+
+<p align="center">
 	<a href="https://www.paypal.me/gmatrix" target="_blank">
 	    <img src="https://mang0e.gmatrixgames.com/img/matrix-donate.png" height="100">
 	</a>
-</center>
+</p>
