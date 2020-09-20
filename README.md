@@ -37,7 +37,7 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
 </p>
 
 <p align="center">
-    <a href="http://discord.gg/qnhhgz7">
+    <a href="http://discord.gg/KbGH43p">
         <img src="https://discordapp.com/api/guilds/708370560501153913/widget.png?style=banner4" width="250px;" alt="Fortnite Central Discord"/>
     </a><br/>
 </p>
