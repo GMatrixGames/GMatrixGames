@@ -12,6 +12,8 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
   * **Description »** Fortnite based Unreal Engine asset explorer
 * **[Fortnite Patch Notes for Mang0e](https://fnpatchnotes.cf):** Created by me.
   * **Description »** Fortnite patch notes are now back in the original style that you're familiar with.
+* **[Fortnite Central](http://discord.gg/KbGH43p):** Developed and run by me
+  * **Description »** Fortnite Central is your one stop discord for all things Fortnite related! Fully custom bot developed by me that you can also invite to your own server!
 * **More soon!**
 
 <p align="center">
@@ -21,9 +23,9 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
 ### If you like any of my projects and would like to support me, click the image below!
 
 <p align="center">
-	<a href="https://www.paypal.me/gmatrix" target="_blank">
-	    <img src="https://fnpatchnotes.cf/img/matrix-donate.png" height="100">
-	</a>
+    <a href="https://www.paypal.me/gmatrix" target="_blank">
+        <img src="https://fnpatchnotes.cf/img/matrix-donate.png" height="100">
+    </a>
 </p>
 
 ## My social links
