@@ -10,7 +10,7 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
   * **Description »** .PAK file explorer for UE4 games and with cosmetics icon creation support for Fortnite and Valorant
 * **[JModel](https://github.com/BattleDash/JModel):** Created by [BattleDash](http://github.com/BattleDash)
   * **Description »** Fortnite based Unreal Engine asset explorer
-* **[Fortnite Patch Notes for Mang0e](https://mang0e.gmatrixgames.com):** Created by me.
+* **[Fortnite Patch Notes for Mang0e](https://fnpatchnotes.cf):** Created by me.
   * **Description »** Fortnite patch notes are now back in the original style that you're familiar with.
 * **More soon!**
 
