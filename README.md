@@ -44,4 +44,7 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
     <a href="http://discord.gg/KbGH43p">
         <img src="https://discordapp.com/api/guilds/708370560501153913/widget.png?style=banner4" width="250px;" alt="Fortnite Central Discord"/>
     </a><br/>
+    <a href="http://discord.gg/HTfGdpF">
+        <img src="https://canary.discordapp.com/api/guilds/716654965699117113/widget.png?style=banner4" width="250px;" alt="Dataminer's Conglomerate"/>
+    </a><br/>
 </p>
