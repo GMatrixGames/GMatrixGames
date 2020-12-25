@@ -8,13 +8,11 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
 
 * **[FModel](https://github.com/iAmAsval/FModel):** Created by [Asval](https://github.com/iAmAsval)
   * **Description »** .PAK file explorer for UE4 games and with cosmetics icon creation support for Fortnite and Valorant
-* **[JModel](https://github.com/BattleDash/JModel):** Created by [BattleDash](http://github.com/BattleDash)
-  * **Description »** Fortnite based Unreal Engine asset explorer
 * **[Fortnite Patch Notes for Mang0e](https://fnpatchnotes.cf):** Created by me.
   * **Description »** Fortnite patch notes are now back in the original style that you're familiar with.
 * **[Fortnite Central](http://discord.gg/KbGH43p):** Developed and run by me
   * **Description »** Fortnite Central is your one stop discord for all things Fortnite related! Fully custom bot developed by me that you can also invite to your own server!
-* **[Central Extractor](http://discord.gg/KbGH43p):** Developed by me
+* **[Central Extractor](http://discord.gg/<REDACTED>) [COMING SOON]:** Developed by me
   * **Description »** The Central Extractor is a GUI program that can help extract cosmetics, variants, and weapons from Fortnite in a customizable style!
 * **More soon!**
 
