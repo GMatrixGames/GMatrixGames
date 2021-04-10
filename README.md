@@ -12,8 +12,6 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
   * **Description »** Fortnite Central is your one stop discord for all things Fortnite related! Fully custom bot developed by me that you can also invite to your own server!
 * **[FortniteAPI.io](https://fortniteapi.io):** Run by [Quentin](https://github.com/QuentinBellus)
   * **Description »** FortniteAPI.io is one of the leading Fortnite-based APIs
-* **[Central Extractor](http://discord.gg/<REDACTED>) [COMING SOON]:** Developed by me
-  * **Description »** The Central Extractor is a GUI program that can help extract cosmetics, variants, and weapons from Fortnite in a customizable style!
 * **More soon!**
 
 <p align="center">
