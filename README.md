@@ -15,7 +15,7 @@ My name is Garrett or GMatrixGames and I'm a Java developer that has previously 
 * **More soon!**
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=GMatrixGames&show_icons=true&theme=dark" alt="Github Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=GMatrixGames&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
 
 ### If you like any of my projects and would like to support me, click the image below!
