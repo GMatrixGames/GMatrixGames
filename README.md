@@ -2,7 +2,7 @@
 
 Welcome!
 
-My name is Garrett or GMatrixGames and I'm a Java developer that has previously worked on Minecraft plugins and mods, now I work on Fortnite related projects. All within Java/Groovy
+My name is Garrett or GMatrixGames and I'm a C#/Java developer that has previously worked on Minecraft plugins and mods, now I work on Fortnite related projects. All within .NET/C# and Java
 
 ## Projects I've contributed to
 
