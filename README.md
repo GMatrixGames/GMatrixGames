@@ -1,6 +1,4 @@
-# Welcome to my GitHub page
-
-Welcome!
+# Welcome!
 
 My name is Garrett or GMatrixGames and I'm a C#/Java developer that has previously worked on Minecraft plugins and mods, now I work on Fortnite related projects. All within .NET/C# and Java
 
@@ -41,5 +39,8 @@ My name is Garrett or GMatrixGames and I'm a C#/Java developer that has previous
 <p align="center">
     <a href="http://discord.gg/KbGH43p">
         <img src="https://discordapp.com/api/guilds/708370560501153913/widget.png?style=banner4" width="250px;" alt="Fortnite Central Discord"/>
-    </a><br/>
+    </a>
+    <a href="http://discord.gg/QEUdhdK">
+        <img src="https://discordapp.com/api/guilds/520034763919327247/widget.png?style=banner4" width="250px;" alt="The Matrix Nation Discord"/>
+    </a>
 </p>
