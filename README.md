@@ -5,9 +5,9 @@ My name is Garrett or GMatrixGames and I'm a C#/Java developer that has previous
 ## Projects I've contributed to
 
 * **[FModel](https://github.com/iAmAsval/FModel):** Created by [Asval](https://github.com/iAmAsval)
-  * **Description »** .PAK file explorer for UE4 games and with cosmetics icon creation support for Fortnite and Valorant
+  * **Description »** Software for exploring UE4-5 games' files
 * **[CUE4Parse](https://github.com/FabianFG/CUE4Parse):** Created by [Fabian](https://github.com/FabianFG)
-  * **Description »** A C# Parser for Unreal Engine packages & assets
+  * **Description »** A C# Parser for Unreal Engine 4-5 packages & assets
 * **[Fortnite Central](http://discord.gg/KbGH43p):** Developed and run by me
   * **Description »** Fortnite Central is your one stop discord for all things Fortnite related! Fully custom bot developed by me that you can also invite to your own server!
 * **[FortniteAPI.io](https://fortniteapi.io):** Run by [Quentin](https://github.com/QuentinBellus)
