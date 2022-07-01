@@ -18,14 +18,6 @@ My name is Garrett or GMatrixGames and I'm a C#/Java developer that has previous
    <img src="https://github-readme-stats.vercel.app/api?username=GMatrixGames&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
 
-### If you like any of my projects and would like to support me, click the image below!
-
-<p align="center">
-    <a href="https://www.paypal.me/gmatrix" target="_blank">
-        <img src="https://i.ibb.co/56Z2bW1/matrix-donate.png" height="100">
-    </a>
-</p>
-
 ## My social links
 <p align="center">
     <a href="https://twitter.com/GMatrixGames">
