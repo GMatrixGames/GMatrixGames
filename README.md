@@ -8,7 +8,7 @@ Currently working on a Bachelors Degree in Game Development!
   * **Description »** Fortnite Central is your one stop discord for all things Fortnite related! Fully custom bot developed by me that you can also invite to your own server!
 * **[Unreal Uncooker](http://github.com/GMatrixGames/UnrealUncooker):** Developed by me
   * **Description »** [WIP] Unreal Uncooker is Unreal Engine plugin to directly convert cooked unreal assets to editor assets without the need for extra programs.
-* **[JsonAsAsset](https://github.com/GMatrixGames/JsonAsAsset):** Created by [Tector](https://github.com/Tectors)
+* **[JsonAsAsset](https://github.com/GMatrixGames/JsonAsAsset):** Created by [Tector](https://github.com/Tectors), maintained by me
   * **Description »** JsonAsAsset (JAA) is an Unreal Engine plugin to create assets from the JSON output of game files from [FModel](https://github.com/4sval/FModel) (See Below).
 
 ## Projects I've contributed to
