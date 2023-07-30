@@ -1,15 +1,22 @@
 # Welcome!
 
-My name is Garrett or GMatrixGames and I'm a C#/Java developer that has previously worked on Minecraft plugins and mods, now I work on Fortnite related projects. All within .NET/C# and Java
+My name is Garrett or GMatrixGames. I develop things for games I enjoy. I'm also working on a game 🤫.
+Currently working on a Bachelors Degree in Game Development!
+
+## Personal Projects
+* **[Fortnite Central](http://discord.gg/ETePR8VgQf):** Developed and run by me
+  * **Description »** Fortnite Central is your one stop discord for all things Fortnite related! Fully custom bot developed by me that you can also invite to your own server!
+* **[Unreal Uncooker](http://github.com/GMatrixGames/UnrealUncooker):** Developed by me
+  * **Description »** [WIP] Unreal Uncooker is Unreal Engine plugin to directly convert cooked unreal assets to editor assets without the need for extra programs.
+* **[JsonAsAsset](https://github.com/GMatrixGames/JsonAsAsset):** Created by [Tector](https://github.com/Tectors)
+  * **Description »** JsonAsAsset (JAA) is an Unreal Engine plugin to create assets from the JSON output of game files from [FModel](https://github.com/4sval/FModel) (See Below).
 
 ## Projects I've contributed to
 
-* **[FModel](https://github.com/iAmAsval/FModel):** Created by [Asval](https://github.com/iAmAsval)
+* **[FModel](https://github.com/4sval/FModel):** Created by [Asval](https://github.com/4sval)
   * **Description »** Software for exploring UE4-5 games' files
 * **[CUE4Parse](https://github.com/FabianFG/CUE4Parse):** Created by [Fabian](https://github.com/FabianFG)
   * **Description »** A C# Parser for Unreal Engine 4-5 packages & assets
-* **[Fortnite Central](http://discord.gg/KbGH43p):** Developed and run by me
-  * **Description »** Fortnite Central is your one stop discord for all things Fortnite related! Fully custom bot developed by me that you can also invite to your own server!
 * **[FortniteAPI.io](https://fortniteapi.io):** Run by [Quentin](https://github.com/QuentinBellus)
   * **Description »** FortniteAPI.io is one of the leading Fortnite-based APIs
 * **More soon!**
@@ -34,7 +41,7 @@ My name is Garrett or GMatrixGames and I'm a C#/Java developer that has previous
 </p>
 
 <p align="center">
-    <a href="http://discord.gg/KbGH43p">
+    <a href="http://discord.gg/ETePR8VgQf">
         <img src="https://discordapp.com/api/guilds/708370560501153913/widget.png?style=banner4" width="250px;" alt="Fortnite Central Discord"/>
     </a>
     <a href="http://discord.gg/QEUdhdK">
