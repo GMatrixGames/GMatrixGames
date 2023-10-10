@@ -25,6 +25,8 @@ Currently working on a Bachelors Degree in Game Development!
    <img src="https://github-readme-stats.vercel.app/api?username=GMatrixGames&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
 
+[![An image of @gmatrixgames's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmatrixgames)](https://holopin.io/@gmatrixgames)
+
 ### If you like any of my projects and would like to support me, click below!
 <p align="center">
     <a href='https://ko-fi.com/gmatrixgames' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
