@@ -16,7 +16,7 @@ I make things that help and are used by others. Making games or game-related thi
   * **Description »** Fortnite Central is your one-stop discord for all things Fortnite related! It is a fully custom bot that I developed, that you can invite to your own server!
 * **[PokéStop](http://discord.gg/FxmMSdNqDb):** Developer and Administrator
   * **Description »** PokéStop is your one stop for all Pokémon related product updates from reputable shops.
-* **[Quantum Raiders](https://github.com/GMatrixGames/QuantumRaiders):** Lead Developer & Project Manager
+* **[Quantum Raiders](https://github.com/GMatrixGames/QuantumRaiders):** Lead Developer and Project Manager
   * **Description »** "Quantum Raiders" is a single-player sci-fi shooter set on a space station. Players battle waves of alien enemies, aiming to destroy their spawners with an arsenal of powerful weapons. Survival hinges on skill and strategy as they take down each invader.
 
 ## Projects I've contributed to
