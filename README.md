@@ -4,9 +4,9 @@ My name is Garrett or GMatrixGames. I develop things for games I enjoy. I'm also
 Currently working on a Bachelors Degree in Game Development!
 
 ## Personal Projects
-* **[Fortnite Central](http://discord.gg/ETePR8VgQf):** Developed and run by me
+* **[Fortnite Central](http://discord.gg/ETePR8VgQf):** Developed and administered by me
   * **Description »** Fortnite Central is your one stop discord for all things Fortnite related! Fully custom bot developed by me that you can also invite to your own server!
-* **[PokéStop](http://discord.gg/FxmMSdNqDb):** Developed and run by me
+* **[PokéStop](http://discord.gg/FxmMSdNqDb):** Developed and administered by me
   * **Description »** PokéStop is your one stop for all Pokémon related product updates from reputable shops.
 * **[JsonAsAsset](https://github.com/GMatrixGames/JsonAsAsset):** Created by [Tector](https://github.com/Tectors), maintained by me
   * **Description »** JsonAsAsset (JAA) is an Unreal Engine plugin to create assets from the JSON output of game files from [FModel](https://github.com/4sval/FModel) (See Below).
