@@ -32,7 +32,7 @@ I make things that help and are used by others. Making games or game-related thi
 # Cool stats!
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=GMatrixGames&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
+   <img src="https://github-readme-stats-fast.vercel.app/api?username=GMatrixGames&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
 
 [![An image of @gmatrixgames's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmatrixgames)](https://holopin.io/@gmatrixgames)
